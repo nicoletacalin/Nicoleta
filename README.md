@@ -15,7 +15,6 @@
 const nico = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Ruby, Python],
-  tools: [Rails, React, Redux, Node, Bootstrap, Postman],
- challenge: "I am doing the #everyDayGreen challenge, focused on pushing code on Github every day"
+  tools: [Rails, React, Redux, Node, Bootstrap, Postman]
 }
 ```
