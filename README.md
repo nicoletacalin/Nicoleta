@@ -15,6 +15,6 @@
 const nico = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Ruby, Python],
-  tools: [Rails, React, Redux, Node, Bootstrap, Postman]
+  tools: [Rails, React, TypeScript, NextJS, Redux, Node, Bootstrap, Postman]
 }
 ```
